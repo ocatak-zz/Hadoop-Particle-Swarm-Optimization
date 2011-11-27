@@ -1,18 +1,17 @@
 This is a Particle Swarm Optimization implementation on Map/Reduce systems.
 
-PARAMETER FILES
+INSTALLATION
 
 SwarmParams.txt
-    It includes Particle Swarm Optimization paramteres
+	It includes Particle Swarm Optimization paramteres
 	
-	+----------+--------------------------+-------------------------+-----------------------+-------------------------+
-	|# Of Vars | Lower Boubd For init. x1 | Upper bound for init.x2 | Swarm population Size | Iter Size(Not used Yet) |
-	+----------+--------------------------+-------------------------+-----------------------+-------------------------+
-	|    2     |            14            |          20             |           50          |          100            |
-	+----------+--------------------------+-------------------------+-----------------------+-------------------------+
+	+----------+--------------------+------------------+-----------------------+-------------------------+
+	|# Of Vars | Low Bound init. x1 | Up bound init.x2 | Swarm population Size | Iter Size(Not used Yet) |
+	+----------+--------------------+------------------+-----------------------+-------------------------+
+	|    2     |      14            |      20          |           50          |          100            |
+	+----------+--------------------+------------------+-----------------------+-------------------------+
 	
 	
-RUNNING
-    simply run "swarm.sh"
+	
 
 Ferhat Ozgur CATAK
