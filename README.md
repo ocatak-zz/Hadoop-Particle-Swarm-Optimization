@@ -1,4 +1,4 @@
-This is a Particle Swarm Optimization implementation on Map/Reduce systems.
+# Particle Swarm Optimization implementation on Map/Reduce systems.
 
 INSTALLATION
 
